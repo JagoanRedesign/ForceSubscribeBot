@@ -14,19 +14,19 @@
     "env": {
         "API_HASH": {
             "description": "You API HASH from my.telegram.org",
-            "value": ""
+            "value": "115e8242ea0423893160bb61a9e05eab"
         },
         "API_ID": {
             "description": "You API ID from my.telegram.org",
-            "value": ""
+            "value": "14672956"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "5983599629:AAFLXhVL7ESuVz57cTdXKsjsW55GECHzLYA"
         },
         "CHANNEL": {
             "description": "Channel @username for force join.",
-            "value": ""
+            "value": "DutabotID"
         },
         "WELCOME_MSG": {
             "description": "The welcome message to display. Can be formatted with {mention}, {title}, {fullname}, {username}, {name}, {last}, {channel}.",
